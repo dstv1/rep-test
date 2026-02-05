@@ -44,7 +44,7 @@ GitHub supports the following color formats in Markdown (often used in issues, P
 
 Example usage:
 
-```css
+css
 color: #0969DA;
 background-color: rgb(9, 105, 218);
 border-color: hsl(212, 92%, 45%);

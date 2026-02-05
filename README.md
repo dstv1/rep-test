@@ -1,3 +1,83 @@
+# Project Title
+
+Welcome to the **sample README**. This file demonstrates common GitHub Markdown features.
+
+---
+
+## Headings
+
+# Heading level 1  
+## Heading level 2  
+### Heading level 3  
+#### Heading level 4  
+
+---
+
+## Styling Text
+
+You can style text in several ways:
+
+- **Bold text**
+- *Italic text*
+- ***Bold and italic***
+- ~~Strikethrough~~
+- `Inline code`
+
+---
+
+## Quoting Text
+
+> This is a blockquote.  
+> It’s commonly used for notes, tips, or quoting documentation.
+>
+> — Someone Important
+
+---
+
+## Supported Color Models
+
+GitHub supports the following color formats in Markdown (often used in issues, PRs, and documentation):
+
+- HEX: `#0969DA`
+- RGB: `rgb(9, 105, 218)`
+- HSL: `hsl(212, 92%, 45%)`
+
+Example usage:
+
+```css
+color: #0969DA;
+background-color: rgb(9, 105, 218);
+border-color: hsl(212, 92%, 45%);
+
+## Colors
+
+GitHub Markdown supports the following color models:
+- HEX
+- RGB
+- HSL
+
+These are commonly used in documentation, issues, pull requests, and code blocks.
+
+---
+
+### HEX Colors
+
+HEX colors use the format `#RRGGBB`.
+
+Examples:
+
+- Red: `#FF0000`
+- Green: `#00FF00`
+- Blue: `#0000FF`
+- Black: `#000000`
+- White: `#FFFFFF`
+- GitHub Blue: `#0969DA`
+
+```css
+color: #FF5733;
+background-color: #0969DA;
+border-color: #000000;
+
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
